@@ -39,9 +39,3 @@ Afin de tester la robustesse du modèle en conditions quasi-réelles (logique *S
 ##  Technologies et Outils
 * **Langage de programmation :** R
 * **Packages clés :** `forecast`, `tseries`, `ggplot2`, `dplyr`, `zoo`, `GGally`
-## ✍️ Équipe de Recherche
-Ce projet a été réalisé en collaboration par :
-* Weihong Gao
-* Feifan Ping
-* Baiyi Ren
-* Junwen Xiao
